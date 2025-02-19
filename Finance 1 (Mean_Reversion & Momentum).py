@@ -82,7 +82,7 @@ plt.show()
 # Assume Initial Capital of $10,000
 initial_capital = 10000
 
-# Compute Daily Returns
+# Daily Returns
 df["Returns_Trend_Following"] = df[f"Close_{stock}"].pct_change()
 
 # Fill missing trade signals before multiplication

@@ -17,5 +17,5 @@ This project implements and backtests two algorithmic trading strategies:
    pip install numpy pandas yfinance matplotlib tabulate
 
 ## Results
-- **The Mean Reversion Strategy outperformed the Momentum Strategy with a higher Sharpe Ratio and lower drawdown.
-- **The Momentum Strategy suffered from high volatility and large losses.
+- The Mean Reversion Strategy outperformed the Momentum Strategy with a higher Sharpe Ratio and lower drawdown.
+- The Momentum Strategy suffered from high volatility and large losses.
